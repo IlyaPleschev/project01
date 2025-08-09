@@ -31,6 +31,12 @@
 - Строит график динамики продаж на основе данных из базы данных с использованием `pandas` и `matplotlib`.
 
 5. `main.py`
-Основной скрипт для запуска приложения:
+Основной скрипт для запуска приложения:![4](https://github.com/user-attachments/assets/0a97d168-4af3-45d8-bd92-6eaaf7bf0fa3)
+![3](https://github.com/user-attachments/assets/1d866ac4-d0c5-479d-a349-1a116bf165bb)
+![2](https://github.com/user-attachments/assets/9d916ea8-92b3-41e5-bfdd-7255b97f31b2)
+![1](https://github.com/user-attachments/assets/b6ccda61-2ba0-4210-b2d4-a5303f482c5f)
+![5](https://github.com/user-attachments/assets/3603bf2e-8acf-49a9-868b-8ea605f03f7a)
+
 
 - Инициализирует базу данных и графический интерфейс, запуская основной цикл приложения.
+
